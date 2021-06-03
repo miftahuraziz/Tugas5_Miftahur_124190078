@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simpan Kontak</string>
+    <string name="add">Add Item</string>
+    <string name="button_save">Simpan</string>
+    <string name="button_update">Update</string>
+    <string name="btn_hapus">Hapus</string>
+</resources>
